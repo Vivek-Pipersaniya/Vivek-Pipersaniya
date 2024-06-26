@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on automation tester
 - 📫 How to reach me vivek00532@gmail.com
 - 😄 Pronouns build a few project for functional,alfa testing 
-- ⚡ Fun fact: cooking us my hobby
+- ⚡ Fun fact: cooking is my hobby
 
 <!---
 Vivek-Pipersaniya/Vivek-Pipersaniya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
